@@ -24,10 +24,18 @@ Each of the **move_*** functions are abstractions from the **move** function whi
 
 
 ## Dependencies
+### For Linux
   - [Linux](https://en.wikipedia.org/wiki/Linux) (generates bash scripts)
   - [Python >=3](https://python.org/downloads)
   - [PyAutoGui](https://pyautogui.readthedocs.io/en/latest/)
   - [xdotool](https://github.com/jordansissel/xdotool)
+  - [more_itertools](https://more-itertools.readthedocs.io/en/latest/)
+  - [maim](https://github.com/naelstrof/maim)
+
+### For Windows
+  - [AutoHotkey](https://www.autohotkey.com/)
+  - [Python >=3](https://python.org/downloads)
+  - [PyAutoGui](https://pyautogui.readthedocs.io/en/latest/)
   - [more_itertools](https://more-itertools.readthedocs.io/en/latest/)
   - [maim](https://github.com/naelstrof/maim)
 
@@ -45,7 +53,4 @@ I will implement this feature if I can find an equivalent to uinput for Windows.
 
 ### Todos
 
- - Make available for Windows / OSX
  - Improve performance
- - Remove dependency [PyAutoGui](https://pyautogui.readthedocs.io/en/latest/) in favour of just [xdotool](https://github.com/jordansissel/xdotool).
- 
