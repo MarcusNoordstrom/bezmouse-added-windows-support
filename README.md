@@ -54,5 +54,3 @@ I will implement this feature if I can find an equivalent to uinput for Windows.
 ### Todos
 
  - Improve performance
- - Remove dependency [PyAutoGui](https://pyautogui.readthedocs.io/en/latest/) in favour of just [xdotool](https://github.com/jordansissel/xdotool).
- 
