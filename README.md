@@ -33,7 +33,8 @@ Each of the **move_*** functions are abstractions from the **move** function whi
   - [maim](https://github.com/naelstrof/maim)
 
 ### For Windows
-  - [AutoHotkey](https://www.autohotkey.com/)
+  - [AutoIt3](https://www.autoitscript.com/site/autoit/downloads/) (Put in Environment Variables, This is what moves the mouse & generates mouse movement scripts)
+  - [How to put something to environment variables?](https://learn.microsoft.com/en-us/previous-versions/office/developer/sharepoint-2010/ee537574(v=office.14))
   - [Python >=3](https://python.org/downloads)
   - [PyAutoGui](https://pyautogui.readthedocs.io/en/latest/)
   - [more_itertools](https://more-itertools.readthedocs.io/en/latest/)
