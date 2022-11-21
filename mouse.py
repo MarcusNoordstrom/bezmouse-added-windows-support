@@ -13,8 +13,6 @@ CWD = os.path.dirname(os.path.realpath(__file__))
 
 pyautogui.MINIMUM_DURATION = 0.01
 
-pathToAHK = 'C:\\Program Files\\AutoHotkey\\autohotkey.exe'
-
 def real_click():
     '''This function clicks the mouse with realistic errors:
         occasional accidental right click
